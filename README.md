@@ -24,7 +24,9 @@ I'm looking for a well-maintained and documented open-source project to contribu
 -->
 
 ### Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nikolas-charalambidis&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolas-charalambidis&layout=compact&langs_count=8&card_width=445)
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikolas-charalambidis&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolas-charalambidis&layout=compact&langs_count=8" align = "center"/>
+</p>
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolas-charalambidis&card_width=495&langs_count=8) -->
