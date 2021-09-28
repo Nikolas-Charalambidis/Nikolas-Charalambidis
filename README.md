@@ -7,7 +7,6 @@ I'm looking for a well-maintained and documented open-source project to contribu
 ### Where to reach me
 - LinkedIn: [/nikolas-charalambidis](https://www.linkedin.com/in/nikolas-charalambidis/)
 - StackOverflow: [/nikolas-charalambidis](https://stackoverflow.com/users/3764965/nikolas?tab=profile)
-- Gmail: [nikolas.charalambidis@gmail.com](mailto:nikolas.charalambidis@gmail.com?Subject=GitHub)
 
 <!--
 ### Where to reach me
