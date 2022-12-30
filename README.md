@@ -1,12 +1,18 @@
 ## Hi there, I'm Nikolas
 
-I'm currently in love with Java ☕ and Spring ecosystem 🍃 and everything around microservices architecture Docker 🐋 and automation. So I try to automate most of my repositories or at least include a simple CI pipeline, if it makes sense. I would like to get more familiar with React or Angular, however, my heart sticks with backend and integrations.
+I'm in love with Java ☕, the Spring ecosystem 🍃, and everything around microservices architecture, Docker 🐋, and automation.
 
-I'm looking for a well-maintained and documented open-source project to contribute in my spare time.
+As a result, if it is meaningful, I try to automate or at least include a simple CI pipeline in most of my repositories.
+
+Although backend and integrations still hold a special place in my heart, I'd like to learn more about React or Angular.
+
+Asking and answering questions on the StackOverflow platform helped me to advance. All of my contributions are listed on my [profile](https://stackoverflow.com/users/3764965/nikolas-charalambidis?tab=profile).
+
+I'm looking for both new opportunities and an open-source project that is well-maintained and well-documented that I can contribute to in my free time. Contact me through my [Facebook](https://www.facebook.com/nikolas.charalambidis) or [LinkedIn](https://www.linkedin.com/in/nikolas-charalambidis) accounts.
 
 ### Where to reach me
 - LinkedIn: [/nikolas-charalambidis](https://www.linkedin.com/in/nikolas-charalambidis/)
-- StackOverflow: [/nikolas-charalambidis](https://stackoverflow.com/users/3764965/nikolas?tab=profile)
+- StackOverflow: [/nikolas-charalambidis](https://stackoverflow.com/users/3764965/nikolas-charalambidis?tab=profile)
 
 <!--
 ### Where to reach me
