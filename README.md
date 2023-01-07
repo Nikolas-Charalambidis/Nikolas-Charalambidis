@@ -11,7 +11,7 @@ Asking and answering questions on the StackOverflow platform helped me to advanc
 I'm looking for both new opportunities and an open-source project that is well-maintained and well-documented that I can contribute to in my free time. Contact me through my [Facebook](https://www.facebook.com/nikolas.charalambidis) or [LinkedIn](https://www.linkedin.com/in/nikolas-charalambidis) accounts.
 
 ### Where to reach me
-- Webpage:  [https://nikolas-charalambidis.github.io/](https://nikolas-charalambidis.github.io/)
+- Webpage:  [https://nikolas-charalambidis.github.io](https://nikolas-charalambidis.github.io)
 - LinkedIn: [/nikolas-charalambidis](https://www.linkedin.com/in/nikolas-charalambidis/)
 - StackOverflow: [/nikolas-charalambidis](https://stackoverflow.com/users/3764965/nikolas-charalambidis?tab=profile)
 
