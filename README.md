@@ -17,7 +17,7 @@ I'm looking for both new opportunities and an open-source project that is well-m
 
 <!--
 ### Where to reach me
-- Webpage:  [https://nikolas-charalambidis.github.io/](https://nikolas-charalambidis.github.io/)
+- Webpage:  [https://nikolas-charalambidis.com/](https://nikolas-charalambidis.com/)
 - LinkedIn: [/nikolas-charalambidis](https://www.linkedin.com/in/nikolas-charalambidis)
 - Gmail: [nikolas.charalambidis@gmail.com](mailto:nikolas.charalambidis@gmail.com?Subject=GitHub)
 -->
