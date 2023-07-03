@@ -1,6 +1,6 @@
 ## Hi there, I'm Nikolas
 
-I'm in love with Java ☕, the Spring ecosystem 🍃, and everything around microservices architecture, Docker 🐋, and automation.
+I'm in love with Java ☕, Kotlin, the Spring ecosystem 🍃, and everything around microservices architecture, Docker 🐋, and automation.
 
 As a result, if it is meaningful, I try to automate or at least include a simple CI pipeline in most of my repositories.
 
